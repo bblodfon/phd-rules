@@ -1,0 +1,70 @@
+---
+title: "8 Rules to write a PhD Thesis"
+author: "[John Zobolas](https://github.com/bblodfon)"
+date: "Last updated: `r format(Sys.time(), '%d %B, %Y')`"
+description: "A collection of rules for writing a PhD thesis"
+url: 'https\://bblodfon.github.io/phd-rules/'
+github-repo: "bblodfon/phd-rules"
+site: bookdown::bookdown_site
+bibliography: "references.bib"
+link-citations: true
+---
+
+# Preface {-}
+
+:::{.indent}
+So I was a PhD student once!
+As you may already know, to obtain a doctorate degree and finally be called a Doctor^[As in “Dr. John”, a title with a nice ring to it! You can check my PhD thesis here: https://bblodfon.github.io/my-phd-thesis/], you need to submit a dissertation towards the end of your studies.
+During my efforts to produce a respectable, well-written, paper-based PhD thesis, I followed *a personal list of rules*.
+It is these rules, and the principles behind them, that I present in this collection.
+They are the direct result of my personal travel through the PhD thesis writing ordeal and the lessons I learned from that experience.
+I cannot really say if these guidelines are also applicable to a monograph-based thesis or a thesis about a subject in a research field entirely different from my own (my PhD was in Computational Biology), but I would expect some of them to be.
+You can find several sources on the internet nowadays, providing advice on how to write a PhD thesis.
+Two excellent books exist on the subject [@Eco2015; @Murray2017], as well as several online blogs and presentations.
+I admit that I haven't thoroughly read all of these sources but I have noticed similarities between the guidelines presented in some of these works and my rules.
+All in all, it might be wise to check them out as well if you are interested in good advice on thesis writing.
+Getting expert opinion never hurts, or so they say.
+:::
+
+:::{.indent}
+How can I write more efficiently?
+How can I organize the work that needs to be done in a manner that will increase my productivity?
+How to better prepare myself psychologically for the task ahead?
+How to regulate external factors to my advantage?
+If you are struggling with similar questions, then keep reading.
+In the end, I found some answers to the above questions - at least ones that seemed to work for me, and helped me get the job done.
+I formulated these answers into a list of guidelines.
+I also tried to extract the essence or central idea behind each rule.
+This allowed me to analyze in depth the *underlying principles* that are key to understanding why these rules actually work (or I think that they do).
+Therefore, every rule has its own theoretical background, in case you want to know more details about *why* each one was included in the first place.
+:::
+
+:::{.indent}
+Who is the intended reader?
+To answer this question, let me start by saying that **a PhD thesis is not a paper or an essay**.
+You can not finish a PhD thesis in five days of intense writing and use the weekend to do some refinements, all while having pizza every day to boost your psychological well-being.
+But a scientific paper can be written this way actually (and surely without the pizza).
+Numerous guidelines exist for writing a paper, and an excellent advice is to structure it in the Introduction-Methods-Results-Discussion format to facilitate your writing in an efficient manner.
+Nonetheless, if you are a person that thinks you can write a scientific thesis in one week, then the following text is not meant for you (and I wish you good luck!).
+The presented rules are aimed towards the *strugglers*, the good-working people who may turn lazy and procrastinate when they even think of the prospect of having to write scientific prose.
+These people usually think "I am better at the lab or when writing code", "too much effort to produce almost nothing", "extremely boring" and "who is going to read it anyway?".
+The sad fact is that such thoughts are true most of the time.
+You will need to overcome such tricks of the mind in order to finish your thesis.
+It is clearly a **psychological battle**.
+Moreover, the process of writing a PhD thesis is similar to writing a book, so it is really **hard work**, apart from being mentally and psychologically draining.
+Given its serious nature (it's a doctoral degree after all), it makes sense to be properly prepared for it.
+The presented rules are a step towards this direction and may thus be of help to you.
+:::
+
+:::{.indent}
+A few words about the layout of the rules are in order.
+The first five rules relate to things that need to be in place and figured out before you even start writing.
+The next three rules explain what to do everyday during the writing period.
+That's why I have split this collection of rules to [Before](#before) and [During writing](#during).
+The [Epilogue] provides some general advice and states the final take-home messages (so no rules in there).
+I sincerely hope you enjoy reading this text and that it proves useful to your goals.
+:::
+
+:::{.right-align}
+John Zobolas, July 2021.
+:::

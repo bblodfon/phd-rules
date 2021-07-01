@@ -1,0 +1,26 @@
+{
+    "id": "25A53CC7",
+    "path": "~/repos/phd-rules/index.Rmd",
+    "project_path": "index.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1625131957597.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "69,0",
+        "scrollLine": "48"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1625145455,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1625145455874,
+    "read_only": false,
+    "read_only_alternatives": []
+}
