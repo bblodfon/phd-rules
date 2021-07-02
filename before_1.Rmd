@@ -2,4 +2,47 @@
 
 ## **Rule 1:** Read the damn papers {-}
 
+:::{.indent}
+What exactly is a PhD thesis?
+I believe that the answer is simple: *the thesis is the story of your PhD journey, written by the main character* (that's you).
+So how to shape such a story?
+Let's start from the beginning.
+You are about to write a scientific thesis and for the sake of the argument let's say that you already have some results to write about or even better, papers published ^[If you have no results, in any form that satisfy the criteria set by your academic institution, well, that's another problem entirely, one that I honestly hope that you find a solution for. Either way, my assumption here is that you have some results to write about, which will be integrated into the story of your PhD thesis.].
+You have to have some background knowledge as well.
+**Your work has to fit in a larger picture, be part of a larger story**.
+To write your PhD story you need to know the basic constituents of a thesis.
+In a nutshell, the PhD thesis incorporates three components.
+First, it lays out the contextual framework of the scientific subject you are writing about (background).
+Second, it presents the problems that you as a scientist faced, along with what you did to solve them (results).
+Lastly, it includes some discussion points and potential future work.
+To formulate such a story and embellish it with the details of your own PhD journey, the knowledge you've acquired over the course of your PhD will play a significant role.
+The most prominent source of such knowledge is scientific literature.
+:::
 
+:::{.indent}
+Most people think that the PhD thesis is a strict, formal writing work.
+These people are wrong.
+You see, scientific writing does not necessarily mean the absence of creative writing.
+**To write a story, you need to have a certain degree of imagination**.
+But to integrate your scientific results into such a story and create a coherent narrative, you need to know about the subject you will be writing about.
+This means that you need to have a certain level of background knowledge as well, the main source of which is scientific papers.
+That's also where you are going to find the citations you need for your thesis.
+Of course the papers are not the only source of knowledge you will have access to during your PhD.
+Taking advantage of other forms of knowledge dissemination, such as courses, workshops and conferences is your own responsibility.
+Use every possible means necessary to learn as much as possible about the subject you will be writing about.
+The discussions you have with your supervisors and colleagues are also going to be decisive in shaping your knowledge.
+:::
+
+:::{.indent}
+"*To write, you need to read*" as many people have said.
+If you have reached the final stage of your PhD and haven't read a single paper (which I think is almost impossible), you are like a soldier standing on the front line with no weapons.
+Your chances are better if you stand prepared for the battle ahead.
+So, arm yourself with knowledge.
+**Start reading early in your PhD**.
+You will still have a pile of papers to read during the writing phase of your PhD.
+The main point here is that the core of the reading material should be read before that phase starts.
+:::
+
+:::{.quote}
+Read the damn papers before you start writing.
+:::
