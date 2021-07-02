@@ -48,7 +48,7 @@ But a scientific paper can be written this way actually (and surely without the 
 Numerous guidelines exist for writing a paper, and an excellent advice is to structure it in the Introduction-Methods-Results-Discussion format to facilitate your writing in an efficient manner.
 Nonetheless, if you are a person that thinks you can write a scientific thesis in one week, then the following text is not meant for you (and I wish you good luck!).
 The presented rules are aimed towards the *strugglers*, the good-working people who may turn lazy and procrastinate when they even think of the prospect of having to write scientific prose.
-These people usually think "I am better at the lab or when writing code", "too much effort to produce almost nothing", "extremely boring" and "who is going to read it anyway?".
+These people usually think "*I am better at the lab or when writing code*", "*too much effort to produce almost nothing*", "*extremely boring*" and "*who is going to read it anyway?*".
 The sad fact is that such thoughts are true most of the time.
 You will need to overcome such tricks of the mind in order to finish your thesis.
 It is clearly a **psychological battle**.
