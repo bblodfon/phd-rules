@@ -1,5 +1,6 @@
 ---
 title: "8 Rules to write a PhD Thesis"
+subtitle: "A PhD Rulebook"
 author: "[John Zobolas](https://github.com/bblodfon)"
 date: "Last updated: `r format(Sys.time(), '%d %B, %Y')`"
 description: "A collection of rules for writing a PhD thesis"
@@ -16,7 +17,7 @@ link-citations: true
 So I was a PhD student once!
 As you may already know, to obtain a doctorate degree and finally be called a Doctor^[As in “Dr. John”, a title with a nice ring to it! You can check my PhD thesis here: https://bblodfon.github.io/my-phd-thesis/], you need to submit a dissertation towards the end of your studies.
 During my efforts to produce a respectable, well-written, paper-based PhD thesis, I followed *a personal list of rules*.
-It is these rules, and the principles behind them, that I present in this collection.
+It is these rules, and the principles behind them, that I present in this small rulebook.
 They are the direct result of my personal travel through the PhD thesis writing ordeal and the lessons I learned from that experience.
 I cannot really say if these guidelines are also applicable to a monograph-based thesis or a thesis about a subject in a research field entirely different from my own (my PhD was in Computational Biology), but I would expect some of them to be.
 You can find several sources on the internet nowadays, providing advice on how to write a PhD thesis.
