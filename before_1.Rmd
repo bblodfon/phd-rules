@@ -1,6 +1,6 @@
 # Before writing {-#before}
 
-## **Rule 1:** Read the damn papers {-}
+## **Rule 1:** Read the damn papers {-#rule1}
 
 :::{.indent}
 What exactly is a PhD thesis?
@@ -39,7 +39,7 @@ If you have reached the final stage of your PhD and haven't read a single paper 
 Your chances are better if you stand prepared for the battle ahead.
 So, arm yourself with knowledge.
 **Start reading early in your PhD**.
-You will still have a pile of papers to read during the writing phase of your PhD.
+You will still have a pile of papers to read during the writing phase of your PhD (see [Rule 2](#rule2)).
 The main point here is that the core of the reading material should be read before that phase starts.
 Performing your usual PhD duties can be extremely rewarding, but focusing only on working and not on reading can have a detrimental effect on your thesis writing.
 Don't fall under the wrong impression.
