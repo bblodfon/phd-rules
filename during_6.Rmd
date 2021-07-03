@@ -1,4 +1,4 @@
 # During writing {-#during}
 
-## **Rule 6:** Short focused daily sessions {-}
+## **Rule 6:** Short focused daily sessions {-#rule6}
 

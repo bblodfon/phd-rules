@@ -1,2 +1,2 @@
-## **Rule 7:** Write one new paragraph per day {-}
+## **Rule 7:** Write one new paragraph per day {-#rule7}
 
