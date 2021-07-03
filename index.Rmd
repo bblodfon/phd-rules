@@ -1,6 +1,6 @@
 ---
 title: "8 Rules to write a PhD Thesis"
-subtitle: "A PhD Rulebook"
+subtitle: "A PhD Thesis Rulebook"
 author: "[John Zobolas](https://github.com/bblodfon)"
 date: "Last updated: `r format(Sys.time(), '%d %B, %Y')`"
 description: "A collection of rules for writing a PhD thesis"
