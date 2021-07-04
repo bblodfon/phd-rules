@@ -4,6 +4,7 @@ bookdown::gitbook:
   toc_depth: 3
   css: style.css
   config:
+    view: https://github.com/bblodfon/phd-rules/blob/main/%s
     toc:
       collapse: subsection
       before: |
