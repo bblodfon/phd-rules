@@ -1,2 +1,43 @@
 ## **Rule 3:** Organize your story into chapters {-#rule3}
 
+:::{.indent}
+Before the actual process of writing begins, you need to create the basic structure of your thesis.
+**Structure** is the key concept here.
+You don't need to worry about the actual content of the thesis at this point.
+What is important is to *build the necessary foundation*, upon which you will be adding content at a later stage.
+But which are the main factors that can assist you in constructing such a foundation?
+First, the structure of your thesis will be shaped to a large degree by your knowledge tree (see [Rule 2](#rule2)).
+So with no reading, there is no knowledge tree, and thus the creation of such structure becomes almost impossible.
+Second, it is your creative ability and imagination that will help you shape a coherent story about your PhD work.
+The integration of these two factors deserves a bit of clarification.
+The crucial question here is this: *how can someone write a PhD story*?
+:::
+
+:::{.indent}
+Here is a way to construct your PhD story: first, find the central idea of your work.
+This idea should be directly related to the problem you are trying to solve.
+Next, expand this idea by elaborately formulating it as a sequence of *sub-ideas* with backup storylines (largely influenced by your accomplishments, i.e. your papers).
+Think and refine these sub-ideas, until you reach a point where you can write down single sentences, each capturing a different sub-idea in the most clear possible manner.
+Then, **use these sentences to write your chapter titles**.
+These sentences should be enough to create the outline of your thesis abstract as well (so two birds with one stone!).
+If you do that, in a way, you will have managed to create a map of your knowledge tree with the chapters corresponding to the different, possibly intersecting areas of that map.
+You can think of this mapping process like adding a certain level of *semantics* to your knowledge tree.
+And that's the whole point of doing this!
+You see, without semantics, how will you be able to reason with the knowledge you possess, connect the results you have and write your PhD story?
+:::
+
+:::{.indent}
+On the practical side, you should **aim for a structured draft document with proper chapter titles**.
+Each chapter should include some rough notes and comments, representing your ideas of what you should write there in the future.
+The notes can of course be incomplete or miss contextual detail at this stage.
+The process to generate these comments and ideas in each chapter is similar to *brainstorming*.
+That's where your creative side needs to shine.
+And yes, you are not writing a novel, but a certain amount of *vision* is required to create the framework of your PhD thesis story.
+It personally took me around one week to think and write down the ideas that constituted the structure of my PhD story, so my advice to you is to plan accordingly for this.
+Obviously, without structure and order in your initial thesis draft, you will only make your future writing work way more harder than it could be.
+In conclusion, the proposed modular way of creating the story of your thesis will be extremely beneficial for the ensuing long-term writing work.
+:::
+
+:::{.quote}
+Organize your PhD story into coherent interconnected ideas, and write them down as chapter titles with additional comments and notes.
+:::
