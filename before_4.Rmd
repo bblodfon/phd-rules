@@ -1,2 +1,72 @@
-## **Rule 4:** Make a time-wise plan {-#rule4}
+## **Rule 4:** Make a PhD timetable {-#rule4}
 
+:::{.indent}
+A PhD thesis can not be written in one week.
+Get this through your head.
+It is hard, maybe even the hardest thing you have to do during your PhD.
+It is going to be a painful task for most of you (it was for me).
+So schedule it in a proper time-wise manner.
+Do not wait until it's just two weeks before the deadline to start writing.
+Here is a proposal: **make a document with your PhD plan**.
+Write down in that document the important things that need to be done in the last six months of your PhD, preferably in some chronological order ^[Of course you can make such a plan document from the start of your PhD. I just want to stress here the importance of including in this document what needs to be done during the last stages of your PhD.].
+Examples of things to write can be submission of papers, finishing data analyses or other leftover work, writing the thesis, preparing for the defence, sending some important emails, etc.
+**Allocate at least two months of your time for the writing of the thesis**.
+That's a minimum proposed time frame and it might be far from ideal for you.
+Time equals money as they say, and that's definitively the case for the PhD.
+So you might not want to spend too much of your time in thesis writing.
+On the other hand, you surely don't want to underestimate the time that is required for such a colossal task.
+Therefore, you need to make a well-balanced estimate and plan your thesis writing accordingly.
+*How can then someone derive such an estimate*?
+:::
+
+:::{.indent}
+For starters, you need to understand that the exact amount of time that is necessary to finish the thesis writing is hard to predict.
+The reason for this is that during such a large time period, your life is going to be influenced by a lot of factors.
+Some of these factors are uncontrollable and there is no way to prepare for them (the phenomenon also simply known as "*life happens*").
+Some other factors are directly related to the practical task at hand and can thus be more easily predicted and regulated to your advantage.
+Using this knowledge, you can make a rough calculation of how much time it will take to write your PhD thesis.
+I personally think three factors are of significant importance to derive such an estimate.
+First, the **format of the thesis**, i.e. a paper-based thesis or a monograph, the latter of which will surely require more time to finish.
+Second, your **personal writing speed**, measured in the amount of chapters that you will be able to write on average in a specified time period (usually a week).
+Third, the **number of chapters** you need to write.
+Choosing the format of the thesis should be fairly obvious, based on common practices in your research field, the regulations of your academic institution and the existence or not of published PhD work (papers).
+Moreover, you should already have a pretty good estimate on the amount of total chapters, based on the modular way of constructing your PhD story as was explained in [Rule 3](#rule3).
+Then all that is left, is for you to make an educated guess of your writing speed.
+The combination of the aforementioned three factors will then help you make a realistic estimation of how long the PhD thesis writing will take.
+:::
+
+:::{.indent}
+Let me share with you my personal experience on this matter.
+My thesis was paper-based.
+Following the rules in the section [During writing](#during), I was writing one to two thesis chapters per week.
+These were chapter drafts, so definitely not polished material.
+Therefore, my minimum writing speed was around *one chapter per week*.
+Continuing, I had a total of eight chapters to write + the abstract (derived from my initial story structure), which let's say was equivalent to approximately nine chapters.
+Worst case scenario, I write one chapter per week, so a total of nine weeks are required.
+Best case scenario, I write two chapters per week, so a total of five weeks are required (rounding it up).
+Chapter size plays a huge role as you can probably guess.
+The proposed estimate of two months time is somewhere between five and nine weeks and closer to the second (the maximum of the two).
+So, eight weeks, equal to two months, sounded like a good deadline for my writing project.
+In the end, I finished the thesis writing in seven weeks, which was one week before the deadline.
+That included also reviewing the edits and comments from my supervisor and several rewrites.
+The important thing to remember here is that the calculation of your thesis time frame is going to be a **personal rough estimate**.
+Therefore, *using an average writing speed of one chapter per week without further thought is justifiable* (see [Rule 7](#rule7) on how to have more control over this).
+To summarize, my advice is to 1) calculate the number of chapters you are going to write 2) directly translate that number to weeks and 3) round it up to months ^[Remember to **round up** the resulting number to months! A basic arithmetic example is appropriate here. If you have a total of $11$ chapters, the time required to write them down would be calculated as follows: $\frac{11 \text{ chapters }}{1 \text{ chapter/week }}=11 \text{ weeks } \approx 12 \text{ weeks }$ (closest multiple of $4$), which is equal to $3$ months, assuming that $1$ month is equal to $4$ weeks.].
+:::
+
+:::{.indent}
+Responsibly follow the time schedule you set up for yourself and be aware to not procrastinate on your thesis writing.
+This has also been stated more empirically as the notion that "*work expands to fill the time available for its completion*" (Parkinson's Law).
+Procrastination can lead to unpleasant and stressful days before the thesis submission, that anyone would gladly dispense with.
+I have seen people doing rewrites, last minute additions, or otherwise work that could have been done a week or so ago, if properly scheduled.
+I have heard of people literally running to submit a printed copy in their respective department one hour before the deadline.
+Doesn't sound too good to me.
+It's a million times better to **be prepared and follow your time plan religiously**.
+Try to schedule your thesis writing in an anticipatory manner.
+This will happen when unfortunate scenarios that you can personally deal with, are managed to a satisfying degree.
+See also related discussion in the [Epilogue](#epilogue).
+:::
+
+:::{.quote}
+Make a PhD timetable and allocate a realistic time frame for your thesis writing.
+:::
