@@ -1,2 +1,154 @@
 ## **Rule 7:** Write one new paragraph per day {-#rule7}
 
+:::{.indent}
+In the previous rule I explained why daily distributed sessions might do the trick and increase your overall writing productivity.
+To finish the PhD thesis in a timely manner, you also need to set a writing goal for your everyday work.
+This rule will provide you with an indication on when you can stop your session(s) and call it a day, without feeling afterwards that you haven't done enough.
+You see, the question "*What is the daily goal?*" is synonymous to a question of *threshold*.
+This threshold is exactly the minimum required amount of writing that concludes a day's work (short-term, psychological goal) and which at the same time, is enough for the completion of the PhD thesis (long-term, practical goal) if kept at a constant, everyday basis.
+In other words, **you have to define what good enough is for you**.
+I will provide my own empirical daily goal, but first, I have to introduce another principle, which I view as equally important as the principle of diversity is for the working environment (see [Rule 5](#rule5)).
+I call this principle "*basic cable*".
+The inspiration for its name came from the comedy special titled "Oh My God", performed by the renowned American comedian Louis C.K. [@BasicCable-LCK].
+In particular, there is a scene in the show in which Louis talks about what do you get with living a normal, basic life.
+He mentions examples of things that we take for granted and never seriously think of as important in our lives.
+These things are an essential part of our existence, but we don't give them attention.
+I think there is a lesson to take from this.
+:::
+
+:::{.indent}
+Let me give you a funny, illustrative example.
+You are thinking of moving into a new house.
+The first things to check should not be if there is a super fast WiFi internet connection or if the house has a nice view and heating floors.
+Your first questions should be something like: "Does the house have the basic stuff required for living?
+Does it have a roof to keep the weather elements at bay?
+Is there a kitchen with the essential appliances (e.g. fridge, sink) installed?
+Does it have a functioning toilet?"
+You shouldn't be asking for HDTV but rather if basic cable is provided (the standard, least expensive television subscription service).
+*Start small*.
+Set your expectations low on what you can have or the things that you can achieve, especially in the short term.
+When these expectations are satisfied and the smaller tasks completed, only then turn your attention to more complex, difficult and long-term attainments.
+It is good to know about this.
+People tend to always go for the larger prizes or more difficult goals from the beginning, forgetting how nice it feels when we fulfill our minimal needs and accomplish our everyday small tasks (which are not necessarily easy).
+**Setting small objectives and expectations**, that's what the principle of basic cable is all about.
+:::
+
+:::{.indent}
+A more realistic example, in which the aforementioned principle is directly applied, is the widely used app *Duolingo*, also termed "*The world's best way to learn a language*".
+Many people want to learn a new language, but they are discouraged due to the seemingly impossible task.
+To address this, Duolingo suggests you to do one single session per day which can take up to 15 minutes on average.
+This is exactly the application of the basic cable principle along with a promise of its potential impact: **a small task, done repeatedly every single day, can have a remarkable positive effect on a long term goal, no matter how impossible the goal might seem at first**.
+Of course nobody will fully learn a language using Duolingo, but it is a first step towards achieving a satisfactory level of fluency, enabling communication with other people from different countries.
+:::
+
+:::{.indent}
+To write a PhD thesis is a lengthy and laborious task, and as such, it presents an excellent opportunity to apply the basic cable principle as a strategy for its completion.
+We have already taken care to split the writing work into productive sessions.
+Now we need to define the minimum threshold which will signify a successful writing session (or day).
+So, per basic cable principle, *we set our goal a bit low, so as to make sure we can achieve or even surpass that goal every day*.
+**I hereby advise you to set this goal to one new paragraph per day**.
+The consistency implied by this rule is exactly the guarantee that you might have been looking for.
+This guarantee is none other than the completion of the PhD thesis, given that the previous rules were also followed (e.g. having a time plan and a story structure) and that no external factors severely influenced your work or personal life.
+It's miraculous how small achievements add up to bring about the realization of a larger objective.
+**The progress you will be making by following this rule consistently, is staggering**.
+:::
+
+:::{.indent}
+Your daily goal is now set.
+Write one new paragraph.
+But how exactly to do that?
+I need to clarify at this point that I do not advise you to write a finished and super-refined paragraph every day, but more like the *initial draft* from which you will produce the envisioned version in the future.
+There are two processes at work here.
+The first relates to the **creation of a new draft paragraph** (your daily goal) and the second relates to **text refinement** (task for another day or session).
+Creating the first version of a paragraph is associated with the initial structure and document that we discussed in [Rule 3](#rule3).
+You already had laid out some comments and notes in the chapter you are currently writing (or maybe even whole text segments).
+So the layout, i.e. the ideas that constitute the main argument of the chapter should mostly be there.
+Your day-to-day job is to formulate these ideas to separate paragraphs and connect the subsequent arguments in a cohesive manner.
+The way to expand an idea to a paragraph is the part that requires your *imagination*.
+That's where the diverse environments (see [Rule 5](#rule5)) might help by triggering the parts of your brain that generate ideas and make the words flow.
+Either way, here is what you need to do: simply let your thoughts about a idea flow from mind to pen (or keyboard).
+The subject-specific knowledge you have accumulated up to this point, relating to a particular idea, will be beneficial to this effort.
+The most important thing to remember is to lay out the subsequent arguments in a way that the whole paragraph *makes sense*, i.e. it succeeds in the highest possible level of conceptualization.
+**Do not think about correct words and phrases, or proper syntax and grammar**.
+This first draft might seem unreadable by others but not incomprehensible.
+Do not try to make the perfect paragraph from the first writing.
+Overall, the paragraph will almost certainly be "far from done".
+But rejoice, since its existence will denote that the daily goal was achieved, and therefore that's one successful day for you (per basic cable principle).
+:::
+
+:::{.indent}
+You wrote your new daily paragraph, that's basic cable all accomplished.
+Maybe that's the only thing you are going to do on a bad writing day.
+And there are going to be such days, make no mistake about that.
+But they are going to be just a few of them, because the proposed daily goal is not so terribly difficult after all.
+So on an average day, you are going to have time to work on something extra.
+I hypothesize here that you've had enough with writing new scientific prose at this point, but by all means, if you feel like doing more of this type of writing, please continue to do so! Even so, the main question now is what kind of work to do after you have written your daily new paragraph(s).
+Here are three suggestions: reading, normal work or rewriting.
+How much you will do each one of these in a day (if at all) rests entirely in your hands.
+Having said that, I believe that you should prioritize rewriting, especially the closer you are to finishing the PhD thesis.
+:::
+
+:::{.indent}
+Reading is the most important of these as it can directly influence your writing.
+I therefore formalized it as the next rule.
+Next, doing some non-PhD-thesis-writing work can serve as a nice break from the writing routine.
+Nobody expects you to be done with all the practical work when entering the writing phase of your PhD.
+Apart from doing leftover work (e.g.
+related to your papers), everyday tasks such as answering emails will still be a necessary part of your everyday PhD life.
+The best way to view all of this extra work is as tasks that exist to break the repetitiveness of writing rather than blocking points for your writing schedule.
+This is exactly the diversity principle we discussed in a previous rule, applied in a different setting (i.e.
+diverse tasks instead of places).
+Note that the task of writing emails can be a good warm-up practice for your writing: you should aim to write short, concise emails.
+This requires a certain degree of text refinement and ability to compact meaning (say more with less), which is a generally valuable skill to have in your life.
+Check here some nice advice on how to write emails: How to Email (Blog) (2013).
+https://matt.might.net/articles/how-to-email/ (21 June 2021, date last accessed).
+Your last alternative is to do some rewriting.
+Your goal here is to make the previous paragraphs you wrote a little better.
+Therefore, your role changes from a producer to an editor.
+Editing your previous writings is mostly a technical task and one that you will get increasingly better the more you do it.
+Such a text refinement process might also feel similar to normal work, so it can serve as a nice way to warm up for the more generative type of writing we discussed in the previous paragraph.
+:::
+
+:::{.indent}
+Let's go into more detail into how you can do a paragraph rewrite.
+First, you need to choose a paragraph.
+This can be either a random one (e.g.
+from those you've recently written) or one whose context relates to a recent paper reading (see next rule).
+The goal is to write a better version of the paragraph you chose.
+But how to do that exactly? Well, apply the principle of basic cable yet again.
+Start from the basics.
+A paragraph is a sequence of sentences and each sentence is a sequence of words.
+Is there any word that could be replaced with a better synonym? Amazing improvements can be accomplished at the single word level, so make sure you choose the right words.
+How about laying out the text in a way that is easier for you to read? This can be accomplished by separating each sentence with an empty line for example.
+Splitting up the sentences of a paragraph will allow you to check if they are correctly ordered, clearly connected and the intended meaning as a whole is conveyed properly.
+Rewrite some of these sentences.
+Reorder them if necessary.
+Lastly, split them if possible into smaller, comprehensible units.
+Merge the individual sentences back into a single unit.
+Now you have a better paragraph.
+:::
+
+:::{.indent}
+How much effort should you put into text refinement? Well, there is no proper time-wise answer here, since it is a matter of quality of the produced prose.
+Speaking of quality, Robert Graves said “There is no such thing as good writing, only good rewriting”.
+That's a nice quote, arguing that quality can only increase with each subsequent rewrite.
+But that's just not realistic.
+The PhD thesis comes with a deadline.
+Efficiency is number one priority here.
+The rewriting process has to stop at some point, so when exactly should someone stop rewriting a paragraph? Well, it all boils down to what you consider a good enough paragraph, i.e.
+the level of quality that you are satisfied with.
+As per Grave's quote, remember that there is no best version of a paragraph.
+You can always refine it and re-refine it and so on.
+This means that you have to define a threshold which will tell you when a paragraph is good enough.
+Personally I found out that after 3-4 rewrites of each sentence, the quality was as good as I could possibly make it.
+I base this advice on my personal empirical experience.
+See the following video for a discussion on the technicalities of writing which bear similarities to my own: Jordan Peterson - UNCENSORED (2018).
+https://www.youtube.com/watch?v=dvBbxbjFRw4&t=1029s (21 June 2021, date last accessed).
+Some other times, I rewrote a paragraph up to the point where I felt that significant improvement could only be brought by a more experienced author (that responsibility fell into my supervisor's lap).
+In the end I believe it was a combination of these two quality assessments that made me declare a paragraph as good enough.
+To summarize, I stopped editing a paragraph when I rewrote it a couple of times, and any further substantial improvement could only be brought by an external editor.
+:::
+
+:::{.quote}
+Aim to write at least one new paragraph per day and spend some time refining your previous writings.
+:::
