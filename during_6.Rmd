@@ -7,26 +7,27 @@ Every day, organize your writing work in short focused sessions, and carry out e
 I believe that this strategy is most effective in helping you achieve your PhD writing goals.
 Before laying out my arguments why I think that to be the case, I would like to share my observation about the process of writing and its impact on our psychological being.
 This observation is based on my personal writing experience and you may find it familiar.
-Simply put, **writing does not induce the same level of accomplishment or achievement as normal PhD work does** (lab experiments, running simulations, writing software, conducting qualitative research, etc.).
-Writing (and subsequently thinking) is great, but getting your hands "dirty" trying to fix things, working out problems and discussing them with your colleagues simply feels better in the short term.
-*You get a better "kick"* when you see the world change due to your actions.
+Simply put, **writing does not induce the same level of accomplishment or achievement as normal PhD work does** (lab experiments, executing simulations, writing software, performing data analyses, conducting qualitative research, etc.).
+Writing (and subsequently thinking) is great, but getting your hands "dirty" trying to fix things, working out problems and discussing them with your colleagues, simply feels better in the short term.
+You *"get a better kick"* when you see the world change due to your actions.
 Writing is equivalent to *inaction* in that sense, since typing some words and phrases in your computer will not directly affect the physical world in any way.
 Compare four hours of writing with the same amount of time spent doing some of your normal PhD work (and consider an average performance on both fronts).
 Doesn't feel the same.
-Comparatively speaking, **writing feels like too much work for nothing**.
+Comparatively speaking, **writing feels like too much effort for little reward**.
+Or as some people say, "*the juice is not worth the squeeze*"!
 :::
 
 :::{.indent}
 Nonetheless, you are bravely entering a period of writing, which you know will feel less satisfactory in every possible dimension compared to your normal, everyday PhD work.
-How can you motivate yourself to go through that?
+How can you motivate yourself to go through that and achieve your end goal?
 Some people would say "*Well, I will just do my 8 hours per day + some overtime, rest on the weekends (or not) and all will be fine*".
-So they will follow their standard routine and perhaps push for more hours to write their PhD thesis.
+So to write the PhD thesis, they will follow their standard routine and perhaps push for more hours.
 Sorry, but this strategy might not be optimal.
 One reason for this is that **you can not exceed 3-4 hours of productive writing per day on average**.
-This means that by following your standard working routine, some of your precious PhD time will go to waste.
+This means that by following the standard eight-hour routine for writing, some of your precious PhD time will go to waste.
 Several online sources advise on two up to six hours of combined reading and writing per day.
 The actual amount of hours isn't what is important here.
-What matters is that any such amount should be far less than the standard 8+ hours of work per day as is established by the Western civilization.
+What matters is that any such amount should be far less than the standard eight-hour working day.
 What you should be really aiming for is small bursts of concentrated writing activity.
 So to be more productive in your writing, the general advice is to **work less and smarter, not more and harder**.
 So, what should you do exactly?
@@ -36,23 +37,24 @@ So, what should you do exactly?
 Most people use the same workplace to write for 8+ hours and finish their PhD thesis.
 My personal opinion is that this is the *worst possible choice you can make from a psychological point of view*.
 You are going to face writing blocks all the time, characterized by the lack of stimulus needed to produce new text.
-Practically speaking, if you find yourself looking at your computer screen for ~30 minutes without writing any word, then that's exactly the problem I am referring to.
-With long hours of writing, you will become more susceptible to demotivation.
-Your concentration levels might be far from optimal.
-You also risk falling into patterns where *you read what you think you've written and not what actually is written*.
+Practically, if you find yourself looking at your computer screen for ~20 minutes without having written a single word, then that's exactly the problem I am referring to.
+With long hours of writing ahead, you become susceptible to demotivation.
+Your concentration levels might be far from optimal most of the time.
+You risk falling into patterns where *you read what you think you've written and not what actually is written*.
 So writing quality will also suffer in the long term.
-To avoid falling prey to such tricks of the mind, you have to give your brain some time and let the thoughts "sink in".
-**Pauses are important** for this to happen.
+To avoid falling prey to such tricks of the mind, you have to give your brain some time to relax and let the thoughts "sink in".
+**Pauses are important for this to happen**.
 It is a million times better to stop writing and resume it later, when you will be fresh again.
 Multiple writing sessions are therefore essential.
-Distribute them across the span of a day to make each individual writing session more productive.
-In addition, using the same workplace might turn to be counterproductive for your writing in the long term.
+Distribute them throughout the day to make each individual session more productive.
+In addition, using the same place for writing work, might turn out to be counterproductive in the long term.
 That's where the diverse working environments fit in (see [Rule 5](#rule5)).
 Go to a place, do a session, leave.
-Later in the day, you will do the next session somewhere else.
-These sessions can range from 45 minutes to 2-3 hours (again exact duration doesn't matter, it's up to you really).
-Follow this rule diligently.
+Later in the day, you will do the next session someplace else.
+The duration of each session can be 45 minutes to 2-3 hours.
+The exact time span is not important here, it's up to you to decide how long each session will last.
 **Aim for at least two writing sessions per day**.
+Follow this rule diligently.
 A good advice is to have the first session early in the morning, when your cognitive power is at its peak.
 Preferably with some breakfast and coffee as well!
 :::
@@ -75,16 +77,16 @@ Isn't the PhD thesis the most important work-related task during the last stages
 It might be that one day you are more productive than usual and successfully complete in a session the equivalent writing output of two "normal" days.
 This does not mean that you can take a break the next day.
 You see, **writing a PhD thesis is more like running a marathon, not a 100m sprint**.
-You need to maintain a **steady rhythm**.
+*You need to maintain a steady rhythm*.
 Your will to keep doing every day what you set out to do, is what is going to make a difference in the long run.
 The work from each session will be insignificant.
 The work from a week of everyday sessions will be at least *something*.
-Stopping for the weekend or for holidays to relax, will only produce a gap, an irregularity.
+Stopping for the weekend or for some days to relax, will only produce a gap, an irregularity.
 Would you stop a marathon race to take a nap?
 Or would you just stop for a while, replenish your power levels by drinking an energy drink and keep moving forward?
 Reflect on what this writing project means for you and once you start, do it wholeheartedly.
 :::
 
 :::{.quote}
-Write every day, from diverse workplaces, in short dedicated writing sessions.
+Write every day, from different places, in short dedicated writing sessions.
 :::
