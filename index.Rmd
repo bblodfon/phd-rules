@@ -1,14 +1,20 @@
 ---
 title: "8 Rules to write a PhD Thesis"
 subtitle: "A PhD Thesis Rulebook"
-author: "[John Zobolas](https://github.com/bblodfon)"
-date: "Last updated: `r format(Sys.time(), '%d %B, %Y')`"
+author: "John Zobolas"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 description: "A collection of rules for writing a PhD thesis"
 url: 'https\://bblodfon.github.io/phd-rules/'
 github-repo: "bblodfon/phd-rules"
 site: bookdown::bookdown_site
 bibliography: "references.bib"
 link-citations: true
+documentclass: book
+geometry: "left=3cm, right=3cm, top=3cm, bottom=3cm"
+linkcolor: blue # internal links, e.g. cross-ref, citation colors
+urlcolor: blue # for URLs
+fontsize: 12pt
+linestretch: 1.2
 ---
 
 # Preface {-}
@@ -74,6 +80,5 @@ I sincerely hope you enjoy reading this text and that it proves useful to your g
 
 ## About the author {-}
 
-[John Zobolas]() has been known to write some code here and there, play with data and do computational research on cancer (during his PhD days at least).
-He generally enjoys playing the piano, juggling and reading books.
-He also likes traveling and adding some degree of variation to his life, while keeping some other things in order.
+[John Zobolas](https://github.com/bblodfon) has been known to write some code here and there, play with data and do computational research on cancer (during his PhD days at least).
+He generally enjoys playing the [piano](https://www.youtube.com/c/JohnZobolas), [juggling](https://www.instagram.com/bblodfon312/), traveling and reading books.
