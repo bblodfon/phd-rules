@@ -13,6 +13,8 @@ link-citations: true
 
 # Preface {-}
 
+## Why read this book {-}
+
 :::{.indent}
 So I was a PhD student once!
 As you may already know, to obtain a doctorate degree and finally be called a Doctor^[As in “Dr. John”, a title with a nice ring to it! You can check my PhD thesis here: https://bblodfon.github.io/my-phd-thesis/], you need to submit a dissertation towards the end of your studies.
@@ -40,6 +42,8 @@ This allowed me to analyze in depth the *underlying principles* that are key to 
 Therefore, every rule has its own theoretical background, in case you want to know more details about *why* each one was included in the first place.
 :::
 
+## Who is this book for {-}
+
 :::{.indent}
 Who is the intended reader?
 To answer this question, let me start by saying that **a PhD thesis is not a paper or an essay**.
@@ -57,6 +61,8 @@ Given its serious nature (it's a doctoral degree after all), it makes sense to b
 The presented rules are a step towards this direction and may thus be of help to you.
 :::
 
+## Structure of the book {-}
+
 :::{.indent}
 A few words about the layout of the rules are in order.
 The first five rules relate to things that need to be in place and figured out before you even start writing.
@@ -66,6 +72,8 @@ The [Epilogue] provides some general advice and states the final take-home messa
 I sincerely hope you enjoy reading this text and that it proves useful to your goals.
 :::
 
-:::{.right-align}
-John Zobolas, July 2021.
-:::
+## About the author {-}
+
+[John Zobolas]() has been known to write some code here and there, play with data and do computational research on cancer (during his PhD days at least).
+He generally enjoys playing the piano, juggling and reading books.
+He also likes traveling and adding some degree of variation to his life, while keeping some other things in order.
