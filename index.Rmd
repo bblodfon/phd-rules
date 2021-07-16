@@ -80,5 +80,7 @@ I sincerely hope you enjoy reading this text and that it proves useful to your g
 
 ## About the author {-}
 
-[John Zobolas](https://github.com/bblodfon) has been known to write some code here and there, play with data and do computational research on cancer (during his PhD days at least).
-He generally enjoys playing the [piano](https://www.youtube.com/c/JohnZobolas), [juggling](https://www.instagram.com/bblodfon312/), traveling and reading books.
+John Zobolas is an engineer, known to write some software and play with data to solve problems.
+He has a PhD in Computational Biology from NTNU (Trondheim, Norway), where his research was focused on cancer modeling and biological knowledge management.
+He enjoys playing the [piano](https://www.youtube.com/c/JohnZobolas), [juggling](https://www.instagram.com/bblodfon312/) and reading books.
+You can find him on [GitHub](https://github.com/bblodfon) most of the time.
