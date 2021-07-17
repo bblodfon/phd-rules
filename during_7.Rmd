@@ -1,4 +1,4 @@
-## **Rule 7:** Write one new paragraph per day {-#rule7}
+## **Rule 7:** Write one new paragraph {-#rule7}
 
 :::{.indent}
 In the previous rule I explained why daily distributed sessions might do the trick and increase your overall writing productivity.
@@ -36,7 +36,7 @@ People tend to always go for the larger prizes or set too much difficult goals f
 :::{.indent}
 A more realistic example, in which the aforementioned principle is directly applied, involves the widely used app *Duolingo*, also termed "*The world's best way to learn a language*".
 Many people want to learn a new language, but they are discouraged due to the seemingly impossible task.
-To address this, Duolingo suggests that you do one single session per day, which can take up to 15 minutes on average.
+To address this, Duolingo suggests that you do one single session every day, which can take up to 15 minutes of your time on average.
 A small sacrifice for a greater good!
 This is exactly the application of the basic cable principle along with a promise of its potential impact: **a small task, done repeatedly every single day, can have a remarkable positive effect on a long term goal, no matter how impossible the goal might seem at first**.
 Of course nobody will fully learn a language using Duolingo, but it is a first step towards achieving a satisfactory level of fluency, enabling communication with other people from different countries.
@@ -154,5 +154,5 @@ To summarize, I stopped editing a paragraph when 1) I rewrote it a couple of tim
 :::
 
 :::{.quote}
-Aim to write at least one new paragraph per day and if circumstances allow, do some rewriting as well.
+Aim to write at least one new paragraph every day and if circumstances allow, do some rewriting as well.
 :::
