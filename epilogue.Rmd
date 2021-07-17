@@ -41,7 +41,7 @@ Or at least I found them to be as such.
 Firstly, Zig Ziglar's quote: "*Expect the best but be prepared for the worst*".
 Secondly, and largely complementary, is the infamous Murphy's Law: "*Anything that can go wrong will go wrong*".
 Being positive while striving bravely towards your PhD goal, that is the proper attitude.
-**Having the correct mindset is Rule number 0**.
+**Having the correct mindset is rule number 0**.
 You have to be like a rock, unmoved in your determination to finish the PhD.
 **Envision and aim at the best possible outcome, which is synonymous to bringing out the best possible you**.
 Do your job, write the damn thesis.
@@ -71,7 +71,7 @@ The problem here is the writing of the PhD thesis.
 The "*divide*" part has to do with the construction of the story structure.
 The thesis content is split into several chapters, each with notes and ideas corresponding to paragraphs that you need to write.
 Therefore the problem is split into smaller subtasks, the writing and the subsequent rewriting of paragraphs.
-Completing the subtasks, which is synonymous to writing the respective paragraphs, will solve the original problem.
+Completing the subtasks and writing down the respective paragraphs, will solve the original problem.
 The "*conquer*" part relates to the *when*, *where*, *what* and *how* exactly to do the writing.
 When? Every day.
 Where? Multiple places (diversity).
@@ -79,8 +79,9 @@ What? Write one paragraph.
 How? Produce and edit afterwards.
 **So conquer every day and be consistent above all**.
 The basic cable principle plays a significant role for the regulation of your psychological state.
-The idea is that by making the subtasks small enough, you can easily finish one subtask within a day's work and achieve thus your daily writing goal.
-The singular idea inherent in this principle is fundamental to the rules' proposed success: one paragraph per day, one paper per day, always one thing at a time.
+The main idea is that by making the subtasks small enough, you can finish at least one of them in a day's work and thereby achieve your daily writing goal.
+One paragraph per day, one paper per day, always one thing at a time.
+This singular idea is linked to the rules' putative success.
 Two or three might be too much for some days.
 And that's pretty much all the theory behind the rules.
 :::
