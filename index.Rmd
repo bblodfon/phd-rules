@@ -10,6 +10,7 @@ site: bookdown::bookdown_site
 bibliography: "references.bib"
 link-citations: true
 documentclass: book
+classoption: oneside
 geometry: "left=3cm, right=3cm, top=3cm, bottom=3cm"
 linkcolor: blue # internal links, e.g. cross-ref, citation colors
 urlcolor: blue # for URLs
@@ -72,7 +73,7 @@ The presented rules are a step towards this direction and may thus be of help to
 :::{.indent}
 A few words about the layout of the rules are in order.
 The first five rules relate to things that need to be in place and figured out before you even start writing.
-The next three rules explain what to do everyday during the writing period.
+The next three rules explain **what to do everyday** during the writing period.
 That's why I have split this collection of rules to [Before](#before) and [During writing](#during).
 The [Epilogue] provides some general advice and states the final take-home messages (so no rules in there).
 I sincerely hope you enjoy reading this text and that it proves useful to your goals.
