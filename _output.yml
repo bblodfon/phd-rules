@@ -21,6 +21,6 @@ bookdown::gitbook:
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
-  keep_tex: yes
+  keep_tex: no
 
 bookdown::epub_book: default
