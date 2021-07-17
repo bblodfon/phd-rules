@@ -1,2 +1,100 @@
 # Epilogue {-}
 
+:::{.indent}
+Let me be absolutely clear on one thing, just in case you weren't aware of it already or you have your own theories and ideas about what a PhD thesis really is.
+I hate to be the one to break it to you, but it's better to know and accept the following simple fact, rather than ignore it.
+**The PhD thesis is a personal achievement and one that you are held 100% ACCOUNTABLE FOR**.
+My argument here is that nobody will blame others except you if something happens and you end up not writing your PhD thesis.
+Don't expect help or a magical hand to write it for you.
+There is going to be no *Deus ex Machina*.
+You may consider yourself lucky if you have a supervisor and colleagues who are willing to help you with some text editing, but still, the writing is **ENTIRELY UP TO YOU**.
+So basically, you are alone in this.
+Accept this and move on.
+:::
+
+:::{.indent}
+The above fact is applied to the last stage of your PhD, and is meant specifically for the writing of the thesis.
+So not for the whole PhD term!
+You should ask for proper advice and practical help during the PhD period.
+The absence of such regulatory guidance and assistance can be detrimental to the achievement of your goal, which is the attainment of the doctoral degree.
+Of course, there are a million other things that can go wrong during a PhD.
+If you are *dealt a bad hand* from the start of your PhD, most probably you will drop out at some point (so no thesis writing either).
+Sadly, the PhD drop out rates are close to 50% and there are many factors that contribute to that effect [@Groenvynck2013].
+We all have heard a story or two about people who suffered because of incompetent and uncaring supervision.
+Research group disbanded.
+Payment ceased or funds ended.
+Motivation levels plummeted.
+Depression.
+Loneliness.
+Uncertainty.
+Stress.
+Life is full of uncontrollable, random elements, lurking in the shadows, always ready to lead you astray from your path (the COVID-19 pandemic was the most indicative example of this).
+On the other hand, dropping out of a PhD can also have a positive effect in your life.
+The realization that an academic career is not the best choice for you and that your true calling lies in industry, is an example of such a beneficial outcome.
+Summing up, I believe we can all agree that **the PhD life can be rather complicated**.
+:::
+
+:::{.indent}
+I would like to share with you two quotes that resonated with me during my PhD.
+I believe that they speak of valuable things, important to know in general, and of high relevance to the complex PhD life.
+Or at least I found them to be as such.
+Firstly, Zig Ziglar's quote: "*Expect the best but be prepared for the worst*".
+Secondly, and largely complementary, is the infamous Murphy's Law: "*Anything that can go wrong will go wrong*".
+Being positive while striving bravely towards your PhD goal, that is the proper attitude.
+**Having the correct mindset is Rule number 0**.
+You have to be like a rock, unmoved in your determination to finish the PhD.
+**Envision and aim at the best possible outcome, which is synonymous to bringing out the best possible you**.
+Do your job, write the damn thesis.
+But know that you can't go into battle without being at least prepared for some of the unpleasantries that might manifest themselves and cause you to deviate from your original path.
+This is your *responsibility*.
+For example, during the writing of your thesis, delays due to lack of motivation to write or due to other factors (e.g. waiting for people to edit the thesis or deliver some other work) are going to become significantly prominent and irritating.
+Such distressing scenarios have an amazing tendency to appear when you least expect them to, and in magnitude much larger than originally anticipated.
+Don't be discouraged.
+Make a plan and follow it to the letter.
+That's exactly what the rules are for.
+What we discussed in this rulebook will help you **develop some resistance** to the aforementioned upsetting situations.
+Make your own rules if you have to.
+Unexpected elements can not always be fought off with careful planning, but **having no plan at all is even worse**.
+Remember that being prepared for the worst possible scenarios you can imagine can only be of help, since in real life, it's usually even worse!
+So try to be as best prepared as possible.
+It is the importance of the writing task that calls for such careful preparedness.
+:::
+
+:::{.indent}
+If I were to summarize all the rules into one, the take-home message would be stated like this: **write a few sentences every day**.
+That's the only thing guaranteeing that the PhD thesis will be eventually completed.
+But it is not so helpful when simply stated like this.
+That's why I felt I had to write about the rules that elaborate on *how exactly you can make that happen*.
+The rules constitute the strategy that you can employ to accomplish the PhD thesis goal in a concrete, practical manner.
+The proposed strategy is similar to the algorithmic **divide-and-conquer paradigm** for solving problems.
+The problem here is the writing of the PhD thesis.
+The "*divide*" part has to do with the construction of the story structure.
+The thesis content is split into several chapters, each with notes and ideas corresponding to paragraphs that you need to write.
+Therefore the problem is split into smaller subtasks, the writing and the subsequent rewriting of paragraphs.
+Completing the subtasks, which is synonymous to writing the respective paragraphs, will solve the original problem.
+The "*conquer*" part relates to the *when*, *where*, *what* and *how* exactly to do the writing.
+When? Every day.
+Where? Multiple places (diversity).
+What? Write one paragraph.
+How? Produce and edit afterwards.
+**So conquer every day and be consistent above all**.
+The basic cable principle plays a significant role for the regulation of your psychological state.
+The idea is that by making the subtasks small enough, you can easily finish one subtask within a day's work and achieve thus your daily writing goal.
+The singular idea inherent in this principle is fundamental to the rules' proposed success: one paragraph per day, one paper per day, always one thing at a time.
+Two or three might be too much for some days.
+And that's pretty much all the theory behind the rules.
+:::
+
+:::{.indent}
+Like all things, the PhD thesis will pass and be part of your life's history.
+Try to make it a bit less stressful by employing some of the rules I propose.
+They worked for me, maybe they will work for you as well.
+In the end what matters is that you finish your PhD, and I really hope that you do so!
+No matter the outcome of your PhD adventure, keep in mind that writing can be extremely useful for organizing your thoughts and setting a path for your life.
+I therefore advise you to continue using the writing skills you gained during your PhD.
+Making complex decisions is just a part of our lives.
+Planning the next steps by writing them down, analyzing the *whys* and *hows*, the pros and cons, can only be advantageous in understanding what you really want to do.
+You will also learn more about yourself.
+To me, figuring out the next steps in your life using some writing and thought, sounds like a better alternative than simply "*going with the flow*".
+Think carefully about this.
+:::
