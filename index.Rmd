@@ -29,8 +29,8 @@ During my efforts to produce a respectable, well-written, paper-based PhD thesis
 It is these rules, and the principles behind them, that I present in this rulebook.
 They are the direct result of my personal travel through the PhD thesis writing ordeal and the lessons I learned from that experience.
 I cannot really say if these guidelines are also applicable to a monograph-based thesis or a thesis about a subject in a research field entirely different from my own (my PhD was in Computational Biology), but I would expect some of them to be.
-You can find several sources on the internet nowadays, providing advice on how to write a PhD thesis.
-Two excellent books exist on the subject [@Eco2015; @Murray2017], as well as several online blogs and presentations.
+You can find several sources on the internet nowadays (mostly blogs and presentations), providing advice on how to write a PhD thesis.
+Two excellent books exist on the subject [@Eco2015; @Murray2017].
 I admit that I haven't thoroughly read all of these sources but I have noticed similarities between the guidelines presented in some of these works and my rules.
 All in all, it might be wise to check them out as well if you are interested in good advice on thesis writing.
 Getting expert opinion never hurts, or so they say.
@@ -59,7 +59,7 @@ But a scientific paper can be written this way actually (and surely without the 
 Numerous guidelines exist for writing a paper, and an excellent advice is to structure it in the Introduction-Methods-Results-Discussion format to facilitate your writing in an efficient manner.
 Nonetheless, if you are a person that thinks you can write a scientific thesis in one week, then the following text is not meant for you (and I wish you good luck!).
 The presented rules are aimed towards the *strugglers*, the good-working people who may turn lazy and procrastinate when they even think of the prospect of having to write scientific prose.
-These people usually think "*I am better at the lab or when writing code*", "*too much effort to produce almost nothing*", "*extremely boring*" and "*who is going to read it anyway?*".
+These people usually think "*I am better at the lab or when writing code*", "*Too much effort to produce almost nothing*", "*Extremely boring*" and "*Who is going to read it anyway?*".
 The sad fact is that such thoughts are true most of the time.
 You will need to overcome such tricks of the mind in order to finish your thesis.
 It is clearly a **psychological battle**.
@@ -76,7 +76,7 @@ The first five rules relate to things that need to be in place and figured out b
 The next three rules explain **what to do everyday** during the writing period.
 That's why I have split this collection of rules to [Before](#before) and [During writing](#during).
 The [Epilogue] provides some general advice and states the final take-home messages (so no rules in there).
-I sincerely hope you enjoy reading this text and that it proves useful to your goals.
+I sincerely hope you enjoy reading this text and that it proves useful to you.
 :::
 
 ## About the author {-}
@@ -85,4 +85,4 @@ John Zobolas is an engineer.
 He likes to write software and play with data to solve problems.
 He has a PhD in Computational Biology from NTNU (Trondheim, Norway), where his research was focused on cancer modeling and biological knowledge management.
 He enjoys playing the [piano](https://www.youtube.com/c/JohnZobolas), [juggling](https://www.instagram.com/bblodfon312/) and reading books.
-You can find him on [GitHub](https://github.com/bblodfon) most of the time.
+You also likes to hang around [GitHub](https://github.com/bblodfon).
