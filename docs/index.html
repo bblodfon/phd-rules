@@ -205,8 +205,10 @@ I sincerely hope you enjoy reading this text and that it proves useful to your g
 </div>
 <div id="about-the-author" class="section level2 unnumbered">
 <h2>About the author</h2>
-<p><a href="https://github.com/bblodfon">John Zobolas</a> has been known to write some code here and there, play with data and do computational research on cancer (during his PhD days at least).
-He generally enjoys playing the <a href="https://www.youtube.com/c/JohnZobolas">piano</a>, <a href="https://www.instagram.com/bblodfon312/">juggling</a>, traveling and reading books.</p>
+<p>John Zobolas is an engineer, known to write some software and play with data to solve problems.
+He has a PhD in Computational Biology from NTNU (Trondheim, Norway), where his research was focused on cancer modeling and biological knowledge management.
+He enjoys playing the <a href="https://www.youtube.com/c/JohnZobolas">piano</a>, <a href="https://www.instagram.com/bblodfon312/">juggling</a> and reading books.
+You can find him on <a href="https://github.com/bblodfon">GitHub</a> most of the time.</p>
 
 </div>
 </div>
@@ -273,6 +275,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>
