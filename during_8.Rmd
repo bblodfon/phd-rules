@@ -2,11 +2,11 @@
 
 :::{.indent}
 Before writing your PhD thesis, you have to read the relevant scientific literature (see [Rule 1](#rule1)).
-An organized, efficient reader may have already finished reading all that literature, before starting the thesis writing.
+An organized person, who is also an efficient reader, may have already finished reading all the self-appointed literature, before starting the thesis writing.
 I think this is the exception rather than the rule.
 Most likely, your "to-read" list is going to be full of papers when you start writing the thesis.
-In addition, chances are that you will discover other interesting papers during the writing period.
-This means that your reading list will probably never be empty.
+In addition, chances are that you will discover some interesting papers during the writing period.
+This means that your reading list will probably keep on increasing in size.
 Reading never really ends, right?
 This is the sign of a *positive attitude towards learning*.
 On the practical side, reading before writing will help you to focus, acting thus as an excellent *warm-up*.
@@ -17,20 +17,20 @@ Therefore, I advise you to set another minimum daily goal for yourself.
 **Read one paper every day, on top of writing one new paragraph**.
 That seems like a manageable task.
 As discussed in [Rule 2](#rule2), the paper's abstract may be sufficient for this purpose.
-If the paper turns out to be interesting for you, then keep on reading!
-Try for example to interpret some of the main figures or focus on the authors' conclusions.
+Continue reading a paper only if the abstract indicates that it might be interesting and worthy of your attention.
+You should then focus mainly on the figures and try to interpret them or read the authors' conclusions in each paper subsection.
 In general, what is important to remember is to get the "*big picture*", i.e. the paper's take-home messages.
 The abstract and a quick (but careful) view of the paper from top to bottom, will be satisfactory to that end.
 :::
 
 :::{.indent}
 To better utilize the knowledge you acquire from papers and incorporate it into your writing, I advise you to **force yourself to think about what you have been recently reading** (see [Rule 2](#rule2)).
-This will be very helpful during the creation process of new text.
+This will be very helpful for the text creation process.
 Moreover, a paper's particular writing style, as well as the words and phrases used in the subsequent text, are things that you can make use of.
 For example, while reading a paper you may encounter a word or expression that just happens to be the perfect replacement for a particular word (synonym) or phrase (with a slight variation) you wrote the previous day.
 So this might facilitate some of the rewriting process discussed in [Rule 7](#rule7).
 When one thing gets fixed in your writing (e.g. with the choice of a better word), others might announce themselves as in need of fix.
-This can easily result in a *cascading effect of rewrites*.
+This can easily result in a *cascade of rewrites*.
 To sum up, reading a paper can have a beneficial effect for both the producing and the editing type of writing you will be doing.
 :::
 
@@ -38,11 +38,11 @@ To sum up, reading a paper can have a beneficial effect for both the producing a
 As a general advice, I would suggest to **spend no more than 30 minutes reading a paper**, so try to be as efficient and active as possible in your reading practice [@Sun2020].
 Also, if you are in the mood to read more papers, then by all means do it.
 We already established that reading one paper was useful enough, so the more the better.
-Don't forget though that the most important thing is to commit yourself to write one new paragraph every day to progress towards your final goal.
+Don't forget though that the most important thing is to commit yourself to write one new paragraph every day and progress towards your final goal.
 You can't focus too much on reading and refrain from your main path.
 The writing of the PhD thesis comes first.
 **Priorities are important**.
-Having said that, if you already wrote one new paragraph, and you are in the mood for reading more than one paper, then by all means, go ahead and read as much as you like!
+Having said that, if you already wrote your daily paragraph, and you are in the mood for reading more than one paper, then that's exactly what you should do.
 :::
 
 :::{.quote}
